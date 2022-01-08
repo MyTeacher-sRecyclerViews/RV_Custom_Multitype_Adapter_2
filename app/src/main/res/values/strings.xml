@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RVCustomMultitypeAdapter_2</string>
+    <string name="not_ava">RecyclerView not available!</string>
+    <string name="norec">No recyclerview</string>
+</resources>
